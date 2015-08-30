@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NUP2201MR6
+D Diode TVS array
+F http://www.onsemi.ru.com/pub/Collateral/NUP2201MR6-D.PDF
+$ENDCMP
+#
+$CMP SP0503BAHTG
+D TVS Diode Arrays
+F http://www.littelfuse.com/~/media/Electronics/Datasheets/TVS_Diode_Arrays/Littelfuse_TVS_Diode_Array_SP05_Datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

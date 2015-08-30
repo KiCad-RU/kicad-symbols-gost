@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDC6330L
+D Integrated Load Switch
+F http://www.fairchildsemi.com/datasheets/FD/FDC6330L.pdf
+$ENDCMP
+#
+#End Doc Library
