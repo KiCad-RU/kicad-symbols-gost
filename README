@@ -1,0 +1,12 @@
+Rules:
+- grid to pins: 50 mils
+- grid to graphic: any
+- place pin names inside
+- pin name position offset: 40 mils (approx. 1 mm)
+- pin name text size: 0,079" (approx. 2 mm)
+- pin number text size: 0,079" (approx. 2 mm)
+- pin length: 0,200" (approx. 5 mm) (*)
+- lines width: 0,000" (use global width settings)
+
+Note:
+* - the closer to 5 mm
