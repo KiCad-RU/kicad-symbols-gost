@@ -5,4 +5,14 @@ D Integrated Load Switch
 F http://www.fairchildsemi.com/datasheets/FD/FDC6330L.pdf
 $ENDCMP
 #
+$CMP SIP32508
+D Slew Rate Controlled Load Switch
+F http://www.vishay.com/docs/62754/sip32508.pdf
+$ENDCMP
+#
+$CMP SIP32509
+D Slew Rate Controlled Load Switch
+F http://www.vishay.com/docs/62754/sip32508.pdf
+$ENDCMP
+#
 #End Doc Library
