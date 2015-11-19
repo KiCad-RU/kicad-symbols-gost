@@ -18,3 +18,4 @@ lines width | *0,000"* | use global width settings
 reference and value text size | *0,079"* | approx. 2 mm
 part anchor of common devices | *geometric center*
 part anchor of IC | *left top pin*
+step of pins of IC | *multiplicity to 0,200"* | 5,1 mm
