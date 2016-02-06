@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1986VE92U
+D 32-разрядный микроконтроллер на базе процессорного ядра ARM Cortex-M3
+F http://milandr.ru/uploads/Products/product_80/1986%D0%92%D0%959X.pdf
+$ENDCMP
+#
+#End Doc Library
