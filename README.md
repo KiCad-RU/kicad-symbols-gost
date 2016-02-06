@@ -1,5 +1,5 @@
 # About
-This is Kicad GOST library.
+This is KiCad GOST library.
 
 # Rules
 Parameter | Value / Description | Comment
