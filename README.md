@@ -13,6 +13,7 @@ pin name position offset | *40 mils* | approx. 1 mm
 pin name and number text size | *0,079"* | approx. 2 mm
 pin length of common devices | *0,150"* | 3,8 mm
 pin length of IC | *0,200"* | approx. 5 mm
+pin length with graphic style | *0,300"*
 **Part** |
 lines width | *0,000"* | use global width settings
 reference and value text size | *0,079"* | approx. 2 mm
