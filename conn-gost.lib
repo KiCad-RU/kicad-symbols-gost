@@ -22,7 +22,8 @@ F1 "CONN_4" 0 -600 79 H I C CNN
 F2 "" 600 200 98 H I C CNN
 F3 "" 600 200 98 H I C CNN
 $FPLIST
- USB*
+ Pin_Header_*_1x04
+ Pin_Header_*_2x02
 $ENDFPLIST
 DRAW
 T 0 390 0 79 0 0 0 2  Normal 0 C C
@@ -97,6 +98,7 @@ F2 "Pin_Headers:Pin_Header_Straight_2x10" 0 -2350 98 H I C CNN
 F3 "" 600 1800 98 H I C CNN
 $FPLIST
  IDC_Header_*_20pins
+ Pin_Header_*_2x10
 $ENDFPLIST
 DRAW
 T 0 390 -600 79 0 0 0 13  Normal 0 C C
