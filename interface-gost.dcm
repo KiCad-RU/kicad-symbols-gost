@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1485XK4T
+D ARINC 429 Line Driver
+F http://www.angstrem.ru/netcat_files/209/247/1485hi4p.pdf
+$ENDCMP
+#
 $CMP CP2102
 D USB to UART bridge
 F http://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf
