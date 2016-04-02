@@ -8,4 +8,8 @@ $CMP 1309EP1T
 F http://milandr.ru/uploads/Products/product_173/spec_1309ER1T.pdf
 $ENDCMP
 #
+$CMP 1334EHx.xT
+F http://caxapa.ru/thumbs/622128/1334series.pdf
+$ENDCMP
+#
 #End Doc Library
