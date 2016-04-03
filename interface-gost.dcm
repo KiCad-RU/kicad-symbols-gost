@@ -25,6 +25,11 @@ D CAN Tranceiver
 F http://milandr.ru/uploads/Products/product_162/spec_5559IN14.pdf
 $ENDCMP
 #
+$CMP 5559ИН1Т
+D RS-232 two trasmitters and two receivers
+F http://www.integral.by/download/1254/5559_IN1T.pdf
+$ENDCMP
+#
 $CMP CP2102
 D USB to UART bridge
 F http://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf
