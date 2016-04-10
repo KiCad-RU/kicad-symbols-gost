@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# КМН1
+#
+DEF ~КМН1 DA 0 40 Y Y 1 F N
+F0 "DA" 850 300 79 H V C CNN
+F1 "КМН1" 850 -500 79 H I C CNN
+F2 "Converters_DCDC_ACDC:DCDC-Conv_TRACO_TMR_1-xxxx_Dual" 850 -600 79 H I C CNN
+F3 "" 0 0 79 H V C CNN
+DRAW
+T 0 825 0 79 0 0 0 *STU Normal 0 C C
+P 2 0 0 0 650 200 650 -400 N
+S 200 200 1450 -400 0 1 0 f
+P 2 0 1 0 1000 200 1000 -400 N
+X -ВХ 1 0 -200 200 R 79 79 1 1 W
+X +ВХ 2 0 0 200 R 79 79 1 1 W
+X +ВЫХ 4 1650 0 200 L 79 79 1 1 w
+X -ВЫХ 6 1650 -200 200 L 79 79 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library
