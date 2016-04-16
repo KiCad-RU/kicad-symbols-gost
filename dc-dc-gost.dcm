@@ -4,4 +4,8 @@ $CMP КМН1
 F http://aedon.ru/files/kmn/kmn1.pdf
 $ENDCMP
 #
+$CMP КМН2
+F http://aedon.ru/files/kmn/kmn2.pdf
+$ENDCMP
+#
 #End Doc Library
