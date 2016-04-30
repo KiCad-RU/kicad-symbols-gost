@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# КМН1
+# МДМ-1Н
 #
-DEF ~КМН1 DA 0 40 Y Y 1 F N
+DEF ~МДМ-1Н DA 0 40 Y Y 1 F N
 F0 "DA" 850 300 79 H V C CNN
-F1 "КМН1" 850 -500 79 H I C CNN
+F1 "МДМ-1Н" 850 -500 79 H I C CNN
 F2 "Converters_DCDC_ACDC:DCDC-Conv_TRACO_TMR_1-xxxx_Dual" 850 -600 79 H I C CNN
 F3 "" 0 0 79 H V C CNN
 DRAW
@@ -20,11 +20,11 @@ X -ВЫХ 6 1650 -200 200 L 79 79 1 1 w
 ENDDRAW
 ENDDEF
 #
-# КМН2
+# МДМ-2Н
 #
-DEF ~КМН2 DA 0 40 Y Y 1 F N
+DEF ~МДМ-2Н DA 0 40 Y Y 1 F N
 F0 "DA" 850 300 79 H V C CNN
-F1 "КМН2" 850 -700 79 H I C CNN
+F1 "МДМ-2Н" 850 -700 79 H I C CNN
 F2 "Converters_DCDC_ACDC:DCDC-Conv_TRACO_TMR_xxxx" 850 -800 79 H I C CNN
 F3 "" 0 0 79 H V C CNN
 DRAW

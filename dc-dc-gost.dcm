@@ -1,11 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP КМН1
-F http://aedon.ru/files/kmn/kmn1.pdf
+$CMP МДМ-1Н
+F http://aedon.ru/files/mdn-n/mdn-1n.pdf
 $ENDCMP
 #
-$CMP КМН2
-F http://aedon.ru/files/kmn/kmn2.pdf
+$CMP МДМ-2Н
+F http://aedon.ru/files/mdn-n/mdn-2n.pdf
 $ENDCMP
 #
 #End Doc Library
