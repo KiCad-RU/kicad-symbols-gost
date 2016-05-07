@@ -14,6 +14,7 @@ $FPLIST
  C_????
  SMD*_c
  Capacitor*
+ C_?????
 $ENDFPLIST
 DRAW
 P 2 0 1 0 -157 -30 157 -30 N
