@@ -9,12 +9,7 @@ F1 "C" 25 -125 79 H V L CNN
 F2 "" -75 0 60 H I C CNN
 F3 "" 25 100 60 H I C CNN
 $FPLIST
- C?
- C_????_*
- C_????
- SMD*_c
- Capacitor*
- C_?????
+ C_*
 $ENDFPLIST
 DRAW
 P 2 0 1 0 -157 -30 157 -30 N
