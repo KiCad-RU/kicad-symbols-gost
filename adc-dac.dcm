@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1310НМ025
+D ADC Resolver 10-16 bit, SPI
+F http://milandr.ru/uploads/Products/product_435/spec_1310HM025.pdf
+$ENDCMP
+#
+#End Doc Library
