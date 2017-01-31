@@ -10,4 +10,20 @@ D 2PMOS
 F http://www.vzpp-s.ru/production/catalog.pdf
 $ENDCMP
 #
+$CMP 2Т3129
+D PNP
+$ENDCMP
+#
+$CMP 2Т3130
+D NPN
+$ENDCMP
+#
+$CMP 2Т664
+D PNP
+$ENDCMP
+#
+$CMP 2Т665
+D NPN
+$ENDCMP
+#
 #End Doc Library
