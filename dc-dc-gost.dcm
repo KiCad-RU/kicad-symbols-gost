@@ -8,4 +8,28 @@ $CMP МДМ-2Н
 F http://aedon.ru/files/mdn-n/mdn-2n.pdf
 $ENDCMP
 #
+$CMP МДМ3-1П
+F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+$ENDCMP
+#
+$CMP МДМ3-2П
+F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+$ENDCMP
+#
+$CMP МДМ5-1П
+F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+$ENDCMP
+#
+$CMP МДМ5-2П
+F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+$ENDCMP
+#
+$CMP МДМ6-1П
+F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+$ENDCMP
+#
+$CMP МДМ6-2П
+F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+$ENDCMP
+#
 #End Doc Library
