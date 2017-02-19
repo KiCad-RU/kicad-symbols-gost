@@ -3,11 +3,12 @@ EESchema-LIBRARY Version 2.3
 #
 # CON
 #
-DEF CON . 0 0 N N 1 F N
-F0 "." -250 100 79 H V L CNN
-F1 "CON" -300 0 79 H V R CNN
+DEF ~CON X 0 0 N N 1 F N
+F0 "X" -250 100 79 H V L CNN
+F1 "CON" -200 -100 79 H I C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" -250 -100 60 H I C CNN
+F4 "NAME" -300 0 79 H V R CNN "PIN"
 $FPLIST
  SolderWirePad_single_*
 $ENDFPLIST
