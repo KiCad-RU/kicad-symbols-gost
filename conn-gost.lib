@@ -3,11 +3,12 @@ EESchema-LIBRARY Version 2.3
 #
 # CON
 #
-DEF CON . 0 0 N N 1 F N
-F0 "." -250 100 79 H V L CNN
-F1 "CON" -300 0 79 H V R CNN
+DEF ~CON X 0 0 N N 1 F N
+F0 "X" -250 100 79 H V L CNN
+F1 "CON" -200 -100 79 H I C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" -250 -100 60 H I C CNN
+F4 "NAME" -300 0 79 H V R CNN "PIN"
 $FPLIST
  SolderWirePad_single_*
 $ENDFPLIST
@@ -4136,11 +4137,11 @@ ENDDEF
 DEF ~JTAG_SWD_20 X 0 0 N N 1 F N
 F0 "X" 0 2200 79 H V C CNN
 F1 "JTAG_SWD_20" 0 -2200 79 H I C CNN
-F2 "Pin_Headers_RUS:Pin_Header_Straight_2x10" 0 -2350 79 H I C CNN
+F2 "Pin_Headers:Pin_Header_Straight_2x10_Pitch2.54mm" 0 -2350 79 H I C CNN
 F3 "" 600 1800 98 H I C CNN
 $FPLIST
  IDC_Header_*_20pins
- Pin_Header_*_2x10
+ Pin_Header_*_2x10_*
 $ENDFPLIST
 DRAW
 T 0 390 -600 79 0 0 0 13 Normal 0 C C

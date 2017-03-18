@@ -45,7 +45,7 @@ ENDDEF
 DEF ~МДМ6-1П DA 0 40 Y Y 1 F N
 F0 "DA" 850 300 79 H V C CNN
 F1 "МДМ6-1П" 850 -1100 79 H I C CNN
-F2 "" 850 -800 79 H I C CNN
+F2 "Converters_DCDC_ACDC_RUS:DCDC-Conv_МДМ6(3,5)-П_Single" 850 -1250 79 H I C CNN
 F3 "" 0 0 79 H V C CNN
 ALIAS МДМ3-1П МДМ5-1П
 DRAW
@@ -70,7 +70,7 @@ ENDDEF
 DEF ~МДМ6-2П DA 0 40 Y Y 1 F N
 F0 "DA" 900 300 79 H V C CNN
 F1 "МДМ6-2П" 900 -1100 79 H I C CNN
-F2 "" 950 -800 79 H I C CNN
+F2 "Converters_DCDC_ACDC_RUS:DCDC-Conv_МДМ6(3,5)-П_Dual" 850 -1250 79 H I C CNN
 F3 "" 0 0 79 H V C CNN
 ALIAS МДМ3-2П МДМ5-2П
 DRAW

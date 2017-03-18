@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ~ГК1001-П G 0 40 Y Y 1 F N
 F0 "G" 700 300 79 H V C CNN
 F1 "ГК1001-П" 700 -500 79 H I C CNN
-F2 "" 900 -5400 79 H I C CNN
+F2 "Oscillators:Oscillator_SMD_SeikoEpson_SG8002CA-4pin_7.0x5.0mm" 900 -5400 79 H I C CNN
 F3 "" 950 -350 98 H I C CNN
 DRAW
 T 0 675 0 79 0 0 0 GN Normal 0 C C
