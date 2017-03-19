@@ -1,5 +1,16 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1564ИД7
+D Дешифратор/демультиплексор 3 на 8
+K дешифратор, демультиплексор
+F http://www.okbexiton.ru/pdf/mc1564id7.pdf
+$ENDCMP
+#
+$CMP 1564ИЕ19
+D Два 4-х разрядных двоичных счетчика.
+F http://www.okbexiton.ru/pdf/mc1564ie19.pdf
+$ENDCMP
+#
 $CMP 1564ТЛ2
 D Six NOT with Schmitt trigger
 F http://www.voshod-krlz.ru/files/datasheets/1564TL2.pdf
