@@ -3,7 +3,7 @@ EESchema-LIBRARY Version 2.3
 #
 # 3ОД109
 #
-DEF ~3ОД109 DA 0 0 N N 3 F N
+DEF ~3ОД109 DA 0 1 Y N 3 F N
 F0 "DA" -150 300 79 H V L CNN
 F1 "3ОД109" 0 -350 79 H I C CNN
 F2 "Housings_CDFP_RUS:401.14-5" 0 -500 79 H I C CNN
