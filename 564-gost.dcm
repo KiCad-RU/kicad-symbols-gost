@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP 564ТЛ1
-D Quad NAND2 with Schmitt trigger
+D 4 триггера Шмидта с входной логикой 2И-НЕ
 F http://www.voshod-krlz.ru/files/datasheets/564tl1.pdf
 $ENDCMP
 #
