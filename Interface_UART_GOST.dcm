@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5559ИН10У
+D RS-485/RS-422 Tranceiver
+F http://milandr.ru/uploads/Products/product_161/spec_5559IN10.pdf
+$ENDCMP
+#
+$CMP 5559ИН1Т
+D RS-232 two trasmitters and two receivers
+F http://www.integral.by/download/1254/5559_IN1T.pdf
+$ENDCMP
+#
+#End Doc Library

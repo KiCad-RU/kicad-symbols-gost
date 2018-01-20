@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1485ХК1У
+D ARINC-429 Serial Transmitter and Dual Receiver
+F http://www.angstrem.ru/netcat_files/209/247/1485el1w.pdf
+$ENDCMP
+#
+$CMP 1485ХК4Т
+D ARINC-429 Line Driver
+F http://www.angstrem.ru/netcat_files/209/247/1485hi4p.pdf
+$ENDCMP
+#
+#End Doc Library

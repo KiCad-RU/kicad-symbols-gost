@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2102
+D USB to UART bridge
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf
+$ENDCMP
+#
+#End Doc Library
