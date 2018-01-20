@@ -1,15 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 2П7240
-D 2NMOS
-F http://www.vzpp-s.ru/production/catalog.pdf
-$ENDCMP
-#
-$CMP 2П7241
-D 2PMOS
-F http://www.vzpp-s.ru/production/catalog.pdf
-$ENDCMP
-#
 $CMP 2Т3129
 D PNP
 $ENDCMP
