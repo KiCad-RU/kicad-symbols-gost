@@ -1,35 +1,39 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP МДМ-1Н
-F http://aedon.ru/files/mdn-n/mdn-1n.pdf
+$CMP МДМ-2Н
+F http://aedon.ru/content/catalog/docs/176/mdm2-n.pdf
 $ENDCMP
 #
-$CMP МДМ-2Н
-F http://aedon.ru/files/mdn-n/mdn-2n.pdf
+$CMP МДМ-3Н
+F http://aedon.ru/content/catalog/docs/178/mdm3-n.pdf
+$ENDCMP
+#
+$CMP МДМ-5Н
+F http://aedon.ru/content/catalog/docs/179/mdm5-n.pdf
 $ENDCMP
 #
 $CMP МДМ3-1П
-F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+F http://aedon.ru/content/catalog/docs/147/mdm3-p,_mdm5-p,_mdm6-p,_mdm8-p.pdf
 $ENDCMP
 #
 $CMP МДМ3-2П
-F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+F http://aedon.ru/content/catalog/docs/147/mdm3-p,_mdm5-p,_mdm6-p,_mdm8-p.pdf
 $ENDCMP
 #
 $CMP МДМ5-1П
-F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+F http://aedon.ru/content/catalog/docs/147/mdm3-p,_mdm5-p,_mdm6-p,_mdm8-p.pdf
 $ENDCMP
 #
 $CMP МДМ5-2П
-F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+F http://aedon.ru/content/catalog/docs/147/mdm3-p,_mdm5-p,_mdm6-p,_mdm8-p.pdf
 $ENDCMP
 #
-$CMP МДМ6-1П
-F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+$CMP МДМ8-1П
+F http://aedon.ru/content/catalog/docs/147/mdm3-p,_mdm5-p,_mdm6-p,_mdm8-p.pdf
 $ENDCMP
 #
-$CMP МДМ6-2П
-F http://aedon.ru/files/pdf/dcdc/mdm3,5,6p.pdf
+$CMP МДМ8-2П
+F http://aedon.ru/content/catalog/docs/147/mdm3-p,_mdm5-p,_mdm6-p,_mdm8-p.pdf
 $ENDCMP
 #
 #End Doc Library

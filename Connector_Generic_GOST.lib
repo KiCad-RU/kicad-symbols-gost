@@ -27,8 +27,7 @@ F2 "" 600 300 79 H I C CNN
 F3 "" 600 -300 79 H I C CNN
 F4 "1" -200 -100 79 H V C CNN "PIN1"
 $FPLIST
- *Pin*1x1*
- *Socket*1x1*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 -100 79 0 1 1 1 Normal 0 C C
@@ -58,10 +57,7 @@ F11 "8" -200 -600 79 H V C CNN "PIN8"
 F12 "9" -200 -800 79 H V C CNN "PIN9"
 F13 "10" -200 -1000 79 H V C CNN "PIN10"
 $FPLIST
- *Pin*1x10*
- *Pin*2x5*
- *Socket*1x10*
- *Socket*2x5*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 800 79 0 1 1 1 Normal 0 C C
@@ -119,8 +115,7 @@ F12 "9" -200 -700 79 H V C CNN "PIN9"
 F13 "10" -200 -900 79 H V C CNN "PIN10"
 F14 "11" -200 -1100 79 H V C CNN "PIN11"
 $FPLIST
- *Pin*1x11*
- *Socket*1x11*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 900 79 0 1 1 1 Normal 0 C C
@@ -182,10 +177,7 @@ F13 "10" -200 -800 79 H V C CNN "PIN10"
 F14 "11" -200 -1000 79 H V C CNN "PIN11"
 F15 "12" -200 -1200 79 H V C CNN "PIN12"
 $FPLIST
- *Pin*1x12*
- *Pin*2x6*
- *Socket*1x12*
- *Socket*2x6*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1000 79 0 1 1 1 Normal 0 C C
@@ -251,8 +243,7 @@ F14 "11" -200 -900 79 H V C CNN "PIN11"
 F15 "12" -200 -1100 79 H V C CNN "PIN12"
 F16 "13" -200 -1300 79 H V C CNN "PIN13"
 $FPLIST
- *Pin*1x13*
- *Socket*1x13*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1100 79 0 1 1 1 Normal 0 C C
@@ -322,10 +313,7 @@ F15 "12" -200 -1000 79 H V C CNN "PIN12"
 F16 "13" -200 -1200 79 H V C CNN "PIN13"
 F17 "14" -200 -1400 79 H V C CNN "PIN14"
 $FPLIST
- *Pin*1x14*
- *Pin*2x7*
- *Socket*1x14*
- *Socket*2x7*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1200 79 0 1 1 1 Normal 0 C C
@@ -399,8 +387,7 @@ F16 "13" -200 -1100 79 H V C CNN "PIN13"
 F17 "14" -200 -1300 79 H V C CNN "PIN14"
 F18 "15" -200 -1500 79 H V C CNN "PIN15"
 $FPLIST
- *Pin*1x15*
- *Socket*1x15*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1300 79 0 1 1 1 Normal 0 C C
@@ -478,10 +465,7 @@ F17 "14" -200 -1200 79 H V C CNN "PIN14"
 F18 "15" -200 -1400 79 H V C CNN "PIN15"
 F19 "16" -200 -1600 79 H V C CNN "PIN16"
 $FPLIST
- *Pin*1x16*
- *Pin*2x8*
- *Socket*1x16*
- *Socket*2x8*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1400 79 0 1 1 1 Normal 0 C C
@@ -563,8 +547,7 @@ F18 "15" -200 -1300 79 H V C CNN "PIN15"
 F19 "16" -200 -1500 79 H V C CNN "PIN16"
 F20 "17" -200 -1700 79 H V C CNN "PIN17"
 $FPLIST
- *Pin*1x17*
- *Socket*1x17*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1500 79 0 1 1 1 Normal 0 C C
@@ -650,10 +633,7 @@ F19 "16" -200 -1400 79 H V C CNN "PIN16"
 F20 "17" -200 -1600 79 H V C CNN "PIN17"
 F21 "18" -200 -1800 79 H V C CNN "PIN18"
 $FPLIST
- *Pin*1x18*
- *Pin*2x9*
- *Socket*1x18*
- *Socket*2x9*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1600 79 0 1 1 1 Normal 0 C C
@@ -743,8 +723,7 @@ F20 "17" -200 -1500 79 H V C CNN "PIN17"
 F21 "18" -200 -1700 79 H V C CNN "PIN18"
 F22 "19" -200 -1900 79 H V C CNN "PIN19"
 $FPLIST
- *Pin*1x19*
- *Socket*1x19*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1700 79 0 1 1 1 Normal 0 C C
@@ -820,10 +799,7 @@ F3 "" 600 -400 79 H I C CNN
 F4 "1" -200 0 79 H V C CNN "PIN1"
 F5 "2" -200 -200 79 H V C CNN "PIN2"
 $FPLIST
- *Pin*1x2*
- *Pin*2x1*
- *Socket*1x2*
- *Socket*2x1*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 0 79 0 1 1 1 Normal 0 C C
@@ -866,10 +842,7 @@ F21 "18" -200 -1600 79 H V C CNN "PIN18"
 F22 "19" -200 -1800 79 H V C CNN "PIN19"
 F23 "20" -200 -2000 79 H V C CNN "PIN20"
 $FPLIST
- *Pin*1x20*
- *Pin*2x10*
- *Socket*1x20*
- *Socket*2x10*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1800 79 0 1 1 1 Normal 0 C C
@@ -967,8 +940,7 @@ F22 "19" -200 -1700 79 H V C CNN "PIN19"
 F23 "20" -200 -1900 79 H V C CNN "PIN20"
 F24 "21" -200 -2100 79 H V C CNN "PIN21"
 $FPLIST
- *Pin*1x21*
- *Socket*1x21*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 1900 79 0 1 1 1 Normal 0 C C
@@ -1070,10 +1042,7 @@ F23 "20" -200 -1800 79 H V C CNN "PIN20"
 F24 "21" -200 -2000 79 H V C CNN "PIN21"
 F25 "22" -200 -2200 79 H V C CNN "PIN22"
 $FPLIST
- *Pin*1x22*
- *Pin*2x11*
- *Socket*1x22*
- *Socket*2x11*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2000 79 0 1 1 1 Normal 0 C C
@@ -1179,8 +1148,7 @@ F24 "21" -200 -1900 79 H V C CNN "PIN21"
 F25 "22" -200 -2100 79 H V C CNN "PIN22"
 F26 "23" -200 -2300 79 H V C CNN "PIN23"
 $FPLIST
- *Pin*1x23*
- *Socket*1x23*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2100 79 0 1 1 1 Normal 0 C C
@@ -1290,10 +1258,7 @@ F25 "22" -200 -2000 79 H V C CNN "PIN22"
 F26 "23" -200 -2200 79 H V C CNN "PIN23"
 F27 "24" -200 -2400 79 H V C CNN "PIN24"
 $FPLIST
- *Pin*1x24*
- *Pin*2x12*
- *Socket*1x24*
- *Socket*2x12*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2200 79 0 1 1 1 Normal 0 C C
@@ -1407,8 +1372,7 @@ F26 "23" -200 -2100 79 H V C CNN "PIN23"
 F27 "24" -200 -2300 79 H V C CNN "PIN24"
 F28 "25" -200 -2500 79 H V C CNN "PIN25"
 $FPLIST
- *Pin*1x25*
- *Socket*1x25*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2300 79 0 1 1 1 Normal 0 C C
@@ -1526,10 +1490,7 @@ F27 "24" -200 -2200 79 H V C CNN "PIN24"
 F28 "25" -200 -2400 79 H V C CNN "PIN25"
 F29 "26" -200 -2600 79 H V C CNN "PIN26"
 $FPLIST
- *Pin*1x26*
- *Pin*2x13*
- *Socket*1x26*
- *Socket*2x13*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2400 79 0 1 1 1 Normal 0 C C
@@ -1651,8 +1612,7 @@ F28 "25" -200 -2300 79 H V C CNN "PIN25"
 F29 "26" -200 -2500 79 H V C CNN "PIN26"
 F30 "27" -200 -2700 79 H V C CNN "PIN27"
 $FPLIST
- *Pin*1x27*
- *Socket*1x27*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2500 79 0 1 1 1 Normal 0 C C
@@ -1778,10 +1738,7 @@ F29 "26" -200 -2400 79 H V C CNN "PIN26"
 F30 "27" -200 -2600 79 H V C CNN "PIN27"
 F31 "28" -200 -2800 79 H V C CNN "PIN28"
 $FPLIST
- *Pin*1x28*
- *Pin*2x14*
- *Socket*1x28*
- *Socket*2x14*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2600 79 0 1 1 1 Normal 0 C C
@@ -1911,8 +1868,7 @@ F30 "27" -200 -2500 79 H V C CNN "PIN27"
 F31 "28" -200 -2700 79 H V C CNN "PIN28"
 F32 "29" -200 -2900 79 H V C CNN "PIN29"
 $FPLIST
- *Pin*1x29*
- *Socket*1x29*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2700 79 0 1 1 1 Normal 0 C C
@@ -2019,8 +1975,7 @@ F4 "1" -200 100 79 H V C CNN "PIN1"
 F5 "2" -200 -100 79 H V C CNN "PIN2"
 F6 "3" -200 -300 79 H V C CNN "PIN3"
 $FPLIST
- *Pin*1x3*
- *Socket*1x3*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 100 79 0 1 1 1 Normal 0 C C
@@ -2076,10 +2031,7 @@ F31 "28" -200 -2600 79 H V C CNN "PIN28"
 F32 "29" -200 -2800 79 H V C CNN "PIN29"
 F33 "30" -200 -3000 79 H V C CNN "PIN30"
 $FPLIST
- *Pin*1x30*
- *Pin*2x15*
- *Socket*1x30*
- *Socket*2x15*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2800 79 0 1 1 1 Normal 0 C C
@@ -2217,8 +2169,7 @@ F32 "29" -200 -2700 79 H V C CNN "PIN29"
 F33 "30" -200 -2900 79 H V C CNN "PIN30"
 F34 "31" -200 -3100 79 H V C CNN "PIN31"
 $FPLIST
- *Pin*1x31*
- *Socket*1x31*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 2900 79 0 1 1 1 Normal 0 C C
@@ -2360,10 +2311,7 @@ F33 "30" -200 -2800 79 H V C CNN "PIN30"
 F34 "31" -200 -3000 79 H V C CNN "PIN31"
 F35 "32" -200 -3200 79 H V C CNN "PIN32"
 $FPLIST
- *Pin*1x32*
- *Pin*2x16*
- *Socket*1x32*
- *Socket*2x16*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3000 79 0 1 1 1 Normal 0 C C
@@ -2509,8 +2457,7 @@ F34 "31" -200 -2900 79 H V C CNN "PIN31"
 F35 "32" -200 -3100 79 H V C CNN "PIN32"
 F36 "33" -200 -3300 79 H V C CNN "PIN33"
 $FPLIST
- *Pin*1x33*
- *Socket*1x33*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3100 79 0 1 1 1 Normal 0 C C
@@ -2660,10 +2607,7 @@ F35 "32" -200 -3000 79 H V C CNN "PIN32"
 F36 "33" -200 -3200 79 H V C CNN "PIN33"
 F37 "34" -200 -3400 79 H V C CNN "PIN34"
 $FPLIST
- *Pin*1x34*
- *Pin*2x17*
- *Socket*1x34*
- *Socket*2x17*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3200 79 0 1 1 1 Normal 0 C C
@@ -2817,8 +2761,7 @@ F36 "33" -200 -3100 79 H V C CNN "PIN33"
 F37 "34" -200 -3300 79 H V C CNN "PIN34"
 F38 "35" -200 -3500 79 H V C CNN "PIN35"
 $FPLIST
- *Pin*1x35*
- *Socket*1x35*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3300 79 0 1 1 1 Normal 0 C C
@@ -2976,10 +2919,7 @@ F37 "34" -200 -3200 79 H V C CNN "PIN34"
 F38 "35" -200 -3400 79 H V C CNN "PIN35"
 F39 "36" -200 -3600 79 H V C CNN "PIN36"
 $FPLIST
- *Pin*1x36*
- *Pin*2x18*
- *Socket*1x36*
- *Socket*2x18*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3400 79 0 1 1 1 Normal 0 C C
@@ -3141,8 +3081,7 @@ F38 "35" -200 -3300 79 H V C CNN "PIN35"
 F39 "36" -200 -3500 79 H V C CNN "PIN36"
 F40 "37" -200 -3700 79 H V C CNN "PIN37"
 $FPLIST
- *Pin*1x37*
- *Socket*1x37*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3500 79 0 1 1 1 Normal 0 C C
@@ -3308,10 +3247,7 @@ F39 "36" -200 -3400 79 H V C CNN "PIN36"
 F40 "37" -200 -3600 79 H V C CNN "PIN37"
 F41 "38" -200 -3800 79 H V C CNN "PIN38"
 $FPLIST
- *Pin*1x38*
- *Pin*2x19*
- *Socket*1x38*
- *Socket*2x19*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3600 79 0 1 1 1 Normal 0 C C
@@ -3481,8 +3417,7 @@ F40 "37" -200 -3500 79 H V C CNN "PIN37"
 F41 "38" -200 -3700 79 H V C CNN "PIN38"
 F42 "39" -200 -3900 79 H V C CNN "PIN39"
 $FPLIST
- *Pin*1x39*
- *Socket*1x39*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3700 79 0 1 1 1 Normal 0 C C
@@ -3620,10 +3555,7 @@ F5 "2" -200 0 79 H V C CNN "PIN2"
 F6 "3" -200 -200 79 H V C CNN "PIN3"
 F7 "4" -200 -400 79 H V C CNN "PIN4"
 $FPLIST
- *Pin*1x4*
- *Pin*2x2*
- *Socket*1x4*
- *Socket*2x2*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 200 79 0 1 1 1 Normal 0 C C
@@ -3692,10 +3624,7 @@ F41 "38" -200 -3600 79 H V C CNN "PIN38"
 F42 "39" -200 -3800 79 H V C CNN "PIN39"
 F43 "40" -200 -4000 79 H V C CNN "PIN40"
 $FPLIST
- *Pin*1x40*
- *Pin*2x20*
- *Socket*1x40*
- *Socket*2x20*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 3800 79 0 1 1 1 Normal 0 C C
@@ -3837,8 +3766,7 @@ F6 "3" -200 -100 79 H V C CNN "PIN3"
 F7 "4" -200 -300 79 H V C CNN "PIN4"
 F8 "5" -200 -500 79 H V C CNN "PIN5"
 $FPLIST
- *Pin*1x5*
- *Socket*1x5*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 300 79 0 1 1 1 Normal 0 C C
@@ -3876,10 +3804,7 @@ F7 "4" -200 -200 79 H V C CNN "PIN4"
 F8 "5" -200 -400 79 H V C CNN "PIN5"
 F9 "6" -200 -600 79 H V C CNN "PIN6"
 $FPLIST
- *Pin*1x6*
- *Pin*2x3*
- *Socket*1x6*
- *Socket*2x3*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 400 79 0 1 1 1 Normal 0 C C
@@ -3921,8 +3846,7 @@ F8 "5" -200 -300 79 H V C CNN "PIN5"
 F9 "6" -200 -500 79 H V C CNN "PIN6"
 F10 "7" -200 -700 79 H V C CNN "PIN7"
 $FPLIST
- *Pin*1x7*
- *Socket*1x7*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 500 79 0 1 1 1 Normal 0 C C
@@ -3968,10 +3892,7 @@ F9 "6" -200 -400 79 H V C CNN "PIN6"
 F10 "7" -200 -600 79 H V C CNN "PIN7"
 F11 "8" -200 -800 79 H V C CNN "PIN8"
 $FPLIST
- *Pin*1x8*
- *Pin*2x4*
- *Socket*1x8*
- *Socket*2x4*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 600 79 0 1 1 1 Normal 0 C C
@@ -4021,8 +3942,7 @@ F10 "7" -200 -500 79 H V C CNN "PIN7"
 F11 "8" -200 -700 79 H V C CNN "PIN8"
 F12 "9" -200 -900 79 H V C CNN "PIN9"
 $FPLIST
- *Pin*1x9*
- *Socket*1x9*
+ Connector*:*
 $ENDFPLIST
 DRAW
 T 0 390 700 79 0 1 1 1 Normal 0 C C
@@ -4066,9 +3986,6 @@ F1 "CON_MECH" -200 -100 79 H I C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" -250 -100 60 H I C CNN
 F4 "NAME" -300 0 79 H V R CNN "PIN"
-$FPLIST
- SolderWirePad_single_*
-$ENDFPLIST
 DRAW
 C -200 0 30 0 1 0 N
 X ~ 1 0 0 170 L 50 50 1 1 P
@@ -4182,12 +4099,12 @@ ENDDEF
 DEF ~G_XP #XP 0 0 N N 1 F N
 F0 "#XP" 0 -150 79 H I C CNN
 F1 "G_XP" 0 150 79 H I C CNN
-F2 "" -50 0 98 H I C CNN
-F3 "" -50 0 98 H I C CNN
+F2 "" -75 0 98 H I C CNN
+F3 "" -75 0 98 H I C CNN
 DRAW
-P 2 0 0 0 -50 0 100 0 N
-P 2 0 1 0 -50 0 0 50 N
-P 2 0 1 0 0 -50 -50 0 N
+P 2 0 0 0 -75 0 75 0 N
+P 2 0 1 0 -75 0 -25 50 N
+P 2 0 1 0 -25 -50 -75 0 N
 ENDDRAW
 ENDDEF
 #
@@ -4196,12 +4113,12 @@ ENDDEF
 DEF ~G_XS #XS 0 0 N N 1 F N
 F0 "#XS" 0 -150 79 H I C CNN
 F1 "G_XS" 0 150 79 H I C CNN
-F2 "" 0 0 98 H I C CNN
-F3 "" 0 0 98 H I C CNN
+F2 "" -25 0 98 H I C CNN
+F3 "" -25 0 98 H I C CNN
 DRAW
-P 2 0 0 0 0 0 100 0 N
-P 2 0 1 0 -50 -50 0 0 N
-P 2 0 1 0 0 0 -50 50 N
+P 2 0 0 0 -25 0 75 0 N
+P 2 0 1 0 -75 -50 -25 0 N
+P 2 0 1 0 -25 0 -75 50 N
 ENDDRAW
 ENDDEF
 #
@@ -4212,6 +4129,9 @@ F0 "XP" -100 150 79 H V C CNN
 F1 "XP" -250 0 79 H V R CNN
 F2 "" -200 0 98 H I C CNN
 F3 "" -200 0 98 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
 DRAW
 P 2 0 1 0 -200 0 -122 78 N
 P 2 0 1 0 -122 -78 -200 0 N
@@ -4226,6 +4146,9 @@ F0 "XS" -200 150 79 H V C CNN
 F1 "XS" -300 0 79 H V R CNN
 F2 "" -150 0 98 H I C CNN
 F3 "" -150 0 98 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
 DRAW
 P 2 0 1 0 -228 -78 -150 0 N
 P 2 0 1 0 -150 0 -228 78 N

@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
 # 2Д707АС9
@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ~2Д707АС9 VD 0 0 N N 1 F N
 F0 "VD" 50 300 79 H V L CNN
 F1 "2Д707АС9" 0 -300 79 H I C CNN
-F2 "TO_SOT_Packages_SMD:SOT-23" 0 -400 79 H I C CNN
+F2 "Package_TO_SOT_SMD:SOT-23" 0 -400 79 H I C CNN
 F3 "" -98 0 79 H I C CNN
 DRAW
 A -196 0 236 901 -901 0 1 0 N -196 236 -196 -236
