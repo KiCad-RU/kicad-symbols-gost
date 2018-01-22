@@ -5,7 +5,8 @@ This is KiCad GOST library.
 Parameter | Value / Description | Comment
 -------------- | ------------------------- | -------------
 **Grid** |
-grid to pins | *50 mils*
+grid to pins of common devices | *50 mils*
+grid to pins of IC | *100 mils*
 grid to graphic | *any*
 **Pin** |
 place pin names | *inside*
