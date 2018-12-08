@@ -1,3 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2Д290АС9
+F http://www.vzpp-s.ru/production/catalog.pdf
+$ENDCMP
+#
+$CMP 2Д290БС9
+F http://www.vzpp-s.ru/production/catalog.pdf
+$ENDCMP
+#
+$CMP 2Д290ВС9
+F http://www.vzpp-s.ru/production/catalog.pdf
+$ENDCMP
+#
+$CMP 2Д290ГС9
+F http://www.vzpp-s.ru/production/catalog.pdf
+$ENDCMP
+#
+$CMP 2Д290ДС9
+F http://www.vzpp-s.ru/production/catalog.pdf
+$ENDCMP
+#
+$CMP 2Д290ЕС9
+F http://www.vzpp-s.ru/production/catalog.pdf
+$ENDCMP
+#
 #End Doc Library
