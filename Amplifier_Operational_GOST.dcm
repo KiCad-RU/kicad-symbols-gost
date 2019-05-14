@@ -12,6 +12,10 @@ $CMP 1486УД3
 F http://www.voshod-krlz.ru/files/datasheets/1486UD3.pdf
 $ENDCMP
 #
+$CMP 1491УД1
+F http://www.voshod-krlz.ru/files/datasheets/1491UD1.pdf
+$ENDCMP
+#
 $CMP 1491УД2
 F http://www.voshod-krlz.ru/files/datasheets/1491UD2.pdf
 $ENDCMP
