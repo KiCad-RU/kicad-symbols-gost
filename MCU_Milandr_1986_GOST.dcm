@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1986ВЕ1Т
+F https://ic.milandr.ru/products/mikrokontrollery_i_protsessory/32_razryadnye_mikrokontrollery/1986vekh_avia/1986ve1t/#docs_tab
+$ENDCMP
+#
 $CMP 1986ВЕ92У
 F https://ic.milandr.ru/products/mikrokontrollery_i_protsessory/1986ve92u/#docs_tab
 $ENDCMP
