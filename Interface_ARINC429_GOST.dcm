@@ -9,6 +9,10 @@ $CMP 1485ХК2Т
 D ARINC-429 Line Transmitter
 $ENDCMP
 #
+$CMP 1485ХК3У
+D ARINC-429 Two Line Receiver
+$ENDCMP
+#
 $CMP 1485ХК4Т
 D ARINC-429 Line Driver
 F http://www.angstrem.ru/netcat_files/209/247/1485hi4p.pdf
