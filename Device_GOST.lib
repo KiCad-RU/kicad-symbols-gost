@@ -146,6 +146,24 @@ X ~ 2 400 0 150 L 79 79 1 1 P
 ENDDRAW
 ENDDEF
 #
+# M_DC_CoilRotor_Brush_MagnetStator
+#
+DEF M_DC_CoilRotor_Brush_MagnetStator M 0 0 N N 1 F N
+F0 "M" 0 200 79 H V C BNN
+F1 "M_DC_CoilRotor_Brush_MagnetStator" 0 -500 79 H I C CNN
+F2 "" -200 1100 60 H I C CNN
+F3 "" -100 1200 60 H I C CNN
+DRAW
+C 0 0 178 0 1 0 f
+P 4 0 1 0 -174 -39 -296 -40 -296 40 -174 39 f
+P 4 0 1 0 174 39 296 40 296 -40 174 -39 f
+P 6 0 1 0 0 -394 -196 -394 -196 -276 -136 -276 -136 -334 0 -334 f
+P 6 0 1 0 0 -394 196 -394 196 -276 136 -276 136 -334 0 -334 f
+X ~ 1 -450 0 154 R 50 50 1 1 P
+X ~ 2 450 0 154 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # R
 #
 DEF R R 0 0 N N 1 F N
