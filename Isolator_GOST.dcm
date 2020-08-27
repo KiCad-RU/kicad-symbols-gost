@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 249КП8ВУ
+F https://proton-orel.ru/files/products/optopary/germetic/tranzistornye/6-04-2017/249kp8u.pdf
+$ENDCMP
+#
+$CMP 249КП8У
+F https://proton-orel.ru/files/products/optopary/germetic/tranzistornye/6-04-2017/249kp8u.pdf
+$ENDCMP
+#
 $CMP 3ОД109
 D 3 opto-diodes
 F http://ielekt.ru/products_html/3od109a.html
